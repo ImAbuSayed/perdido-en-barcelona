@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Perdido en Barcelona
+
+This log tracks the cryptographic history and versioning for the song **Perdido en Barcelona** (perdido-en-barcelona).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-17T18:23:49.752085 | `v1` | `695bcdb7c1ffcd443dc8e94bc29011f1052142eac9f9aa46a0fe57281dec115e` | `16e4ddc2c76a663974513cea065c4ccfc35f1b9dcc6df168cb572e3dc7384b56` | `2026-05-17_perdido-en-barcelona-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

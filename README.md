@@ -15,7 +15,7 @@
 | **Written On** | May 17, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/perdido-en-barcelona/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Perdido en Barcelona](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/perdido-en-barcelona/) |
+| **Get License** | [Secure Licensing Rights for Perdido en Barcelona](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/perdido-en-barcelona/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `695bcdb7c1ffcd443dc8e94bc29011f1052142eac9f9aa46a0fe57281dec115e` |
 | **Timestamp** | May 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
