@@ -15,7 +15,7 @@
 | **Written On** | May 17, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/perdido-en-barcelona/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Perdido en Barcelona](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/perdido-en-barcelona/) |
+| **Get License** | [License this song: Perdido en Barcelona](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/perdido-en-barcelona/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la calle nos mira, no me quiero despedir
+> Siento la vibra tan fuerte, algo que no sé fingir
+> Perdido por Barcelona, no te dejo de pensar
+> Tú eres mi vicio de noche, mi manera de volar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
